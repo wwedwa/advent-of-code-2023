@@ -8,7 +8,7 @@ ifdef NAME
 endif
 
 # Generate corresponding object file names
-OBJECTS = ../utils.o
+OBJECTS = utils.o
 
 
 # Makefile rules
