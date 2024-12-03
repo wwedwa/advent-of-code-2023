@@ -1,4 +1,4 @@
-#include "../utils.h"
+#include "utils.h"
 
 pair<vector<string>, pair<int,int>> GetInfo() {
   vector<string> pipes;

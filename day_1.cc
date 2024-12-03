@@ -1,4 +1,4 @@
-#include "../utils.h"
+#include "utils.h"
 
 int GetCalVal(string line) {
   int first_digit = -1;

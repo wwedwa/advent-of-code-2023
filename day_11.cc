@@ -1,4 +1,4 @@
-#include "../utils.h"
+#include "utils.h"
 
 tuple<vector<string>, unordered_map<int, bool>, unordered_map<int, bool>> GetInfo() {
   vector<string> universe;

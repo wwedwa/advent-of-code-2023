@@ -1,4 +1,4 @@
-#include "../utils.h"
+#include "utils.h"
 
 pair<string, unordered_map<string, pair<string,string>>> GetInfo() {
   unordered_map<string, pair<string,string>> network;

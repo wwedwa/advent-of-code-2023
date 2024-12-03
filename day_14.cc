@@ -1,4 +1,4 @@
-#include "../utils.h"
+#include "utils.h"
 
 map<vector<string>, int> cache;
 

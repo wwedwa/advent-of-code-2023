@@ -1,4 +1,4 @@
-#include "../utils.h"
+#include "utils.h"
 
 vector<vector<string>> GetInfo() {
   ifstream input("input.txt");

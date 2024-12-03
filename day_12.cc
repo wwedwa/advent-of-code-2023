@@ -1,4 +1,4 @@
-#include "../utils.h"
+#include "utils.h"
 #include <regex>
 
 using aoc::split;
